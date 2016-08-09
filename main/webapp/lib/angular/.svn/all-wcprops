@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular
+END
+angular-cookies.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-cookies.min.js
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/version.txt
+END
+angular.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular.js
+END
+angular.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular.min.js
+END
+angular-loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-loader.js
+END
+angular-sanitize.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-sanitize.js
+END
+angular-resource.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-resource.js
+END
+angular-loader.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-loader.min.js
+END
+angular-sanitize.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-sanitize.min.js
+END
+angular-resource.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-resource.min.js
+END
+angular-cookies.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/blswebapp/!svn/ver/1/bls-webapp/src/main/webapp/lib/angular/angular-cookies.js
+END
